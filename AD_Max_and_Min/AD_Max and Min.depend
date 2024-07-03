@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1719778858 source:f:\my_problems\c_problems\ad_max and min\main.c
+	<stdio.h>
+	<stdlib.h>
+
