@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720210277 source:f:\my_problems\c_problems\ad_digits_summation\main.c
+	<stdio.h>
+	<stdlib.h>
+
